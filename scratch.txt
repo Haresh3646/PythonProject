@@ -1,0 +1,5 @@
+PythonProject  C:\Users\hares\PycharmProjects\PythonProject
+  .venv  library root
+  main.py
+External Libraries
+Scratches and Consoles
